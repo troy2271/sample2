@@ -1,2 +1,2 @@
-c=10+20
-print(c)
+qc=10+20
+print(qc)
